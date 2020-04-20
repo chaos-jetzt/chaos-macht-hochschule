@@ -46,35 +46,35 @@
 
 ### Berlin
 
--Freie Universität Berlin
--Humboldt-Universität Berlin
--Technische Universität Berlin
+- Freie Universität Berlin
+- Humboldt-Universität Berlin
+- Technische Universität Berlin
 
 ### Brandenburg
 
--Technische Universität Cottbus-Senftenberg
--Europa-Universität Frankfurt (Oder)
--Universität Potsdam
+- Technische Universität Cottbus-Senftenberg
+- Europa-Universität Frankfurt (Oder)
+- Universität Potsdam
 
 ### Bremen
 
--Universität Bremen
--Jacobs University Bremen
+- Universität Bremen
+- Jacobs University Bremen
 
 ### Hamburg
 
--HafenCity Universität Hamburg
--Technische Universität Hamburg
--Universität Hamburg
--Universität der Bundeswehr Hamburg
+- HafenCity Universität Hamburg
+- Technische Universität Hamburg
+- Universität Hamburg
+- Universität der Bundeswehr Hamburg
 
 ### Hessen
 
--Technische Universität Darmstadt
--Universität Frankfurt am Main
--Universität Gießen
--Universität Kassel
--Universität Marburg
+- Technische Universität Darmstadt
+- Universität Frankfurt am Main
+- Universität Gießen
+- Universität Kassel
+- Universität Marburg
 
 ### Mecklenburg-Vorpommern
 
@@ -89,17 +89,17 @@
 
 ### Niedersachsen
 
--Technische Universität Braunschweig
--Technische Universität Clausthal
--Universität Göttingen
--Universität Hannover
--Medizinische Hochschule Hannover
--Tierärztliche Hochschule Hannover
--Universität Hildesheim
--Leuphana Universität Lüneburg
--Universität Oldenburg
--Universität Osnabrück
--Universität Vechta
+- Technische Universität Braunschweig
+- Technische Universität Clausthal
+- Universität Göttingen
+- Universität Hannover
+- Medizinische Hochschule Hannover
+- Tierärztliche Hochschule Hannover
+- Universität Hildesheim
+- Leuphana Universität Lüneburg
+- Universität Oldenburg
+- Universität Osnabrück
+- Universität Vechta
 
 ### Nordrhein-Westfalen
 
