@@ -34,15 +34,15 @@
 
 - Universität Augsburg
 - Universität Bamberg
--Universität Bayreuth
--Katholische Universität Eichstätt-Ingolstadt
--Universität Erlangen-Nürnberg
--Technische Universität München
--Universität München
--Universität der Bundeswehr München
--Universität Passau
--Universität Regensburg
--Universität Würzburg
+- Universität Bayreuth
+- Katholische Universität Eichstätt-Ingolstadt
+- Universität Erlangen-Nürnberg
+- Technische Universität München
+- Universität München
+- Universität der Bundeswehr München
+- Universität Passau
+- Universität Regensburg
+- Universität Würzburg
 
 ### Berlin
 
