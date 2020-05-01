@@ -1,11 +1,16 @@
-# Email-Addressen deutscher Hochschulen
+# Email-Addressen deutscher Hochschulen und anderer Bildungseinrichtungen
 
 ## Bundesweite Einrichtungen
 ### Studierenden-Initiativen
 - freier zusammenschluss von student*innenschaften: https://www.fzs.de/
+- Bündnis Lernfabriken meutern: https://www.lernfabriken-meutern.de/
 
+### Andere Einrichtungen
+- Hochschulrektorenkonferenz: https://www.hrk.de/
 
 ## Landesweite Einrichtungen
+### Landesrektorenkonferenzen
+
 
 ## Universitäten, Technische Hochschulen
 ### Baden-Württemberg
@@ -138,6 +143,13 @@
 ### Saarland
 
 - Universität des Saarlandes
+    - Der Präsident Prof. Dr. Manfred J. Schmitt praesident(at)uni-saarland.de
+    - Vizepräsident für Lehre und Studium Prof. Dr. Roland Brünken vp-studium(at)uni-saarland.de
+    - Vizepräsidentin für Europa und Internationales Prof. Dr. Claudia Polzin-Haumann vp-europa(at)uni-saarland.de
+    - Vizepräsidentin für Forschung und Technologietransfer Prof. Dr. Martina Sester vp-forschung(at)uni-saarland.de
+    - Vizepräsident für Planung und Strategie Prof. Dr. Christian Wagner vp-strategie(at)uni-saarland.de
+    - Vizepräsident für Verwaltung und Wirtschaftsführung Dr. Roland Rolles vpvw(at)uni-saarland.de
+    - Asta sekretariat@asta.uni-saarland.de
 
 ### Sachsen
 
